@@ -317,28 +317,6 @@ class _fireState extends State<fire> {
               ],
             ),
           )
-          // Positioned(
-          //   top: 20,
-          //   child: GridView.count(
-          //     crossAxisCount: 2,
-          //     crossAxisSpacing: 12,
-          //     mainAxisSpacing: 10,
-          //     childAspectRatio: 1.1,
-          //     shrinkWrap: true,
-          //     physics: NeverScrollableScrollPhysics(),
-          //     children: [
-          //       _buildCategoryCard("Basics", Icons.menu_book, 4, 5, Colors.orange),
-          //       _buildCategoryCard("Occupations", Icons.work, 1, 5, Colors.red),
-          //       _buildCategoryCard("Conversation", Icons.chat, 3, 5, Colors.blue),
-          //       _buildCategoryCard("Places", Icons.place, 1, 5, Colors.green),
-          //       _buildCategoryCard("Family members", Icons.group, 3, 5, Colors.purple),
-          //       _buildCategoryCard("Foods", Icons.fastfood, 2, 5, Colors.blueAccent),
-          //     ],
-          //   ),
-          // ),
-
-
-
         ],
       ),
     );
